@@ -1,1 +1,1 @@
-tensorflow_gpu
+Few notebooks which contain model training and testing examples for tensorflow-gpu
